@@ -1,0 +1,58 @@
+THIS IS MY FIRST LINE
+******************** L2 Associativity of 2 ********************
+---------- Processing trace file: 008.espresso.din ----------
+                               MEAN    STD DEV
+     L1 Inst Cache Hits : 807652.0000     0.0000
+   L1 Inst Cache Misses :  1716.0000     0.0000
+    L1 Inst Energy (mJ) :     0.4604     0.0000
+     L1 Data Cache Hits : 189628.6000     0.6633
+   L1 Data Cache Misses :  1003.4000     0.6633
+L1 Data Cache Energy(mJ) :     0.3211     0.0000
+     DRAM Accesses (ms) :   799.6000     0.8000
+          L1 Cache Hits : 997280.6000     0.6633
+        L1 Cache Misses :  2719.4000     0.6633
+          L2 Cache Hits :  1919.8000     1.1662
+        L2 Cache Misses :   799.6000     0.8000
+         L1 Energy (mJ) :     0.7815     0.0000
+         L2 Energy (mJ) :     0.9695     0.0000
+       DRAM Energy (mJ) :     0.5285     0.0001
+      Total Energy (mJ) :     2.2795     0.0002
+        Total Time (ms) :     0.5161     0.0000
+******************** L2 Associativity of 4 ********************
+---------- Processing trace file: 008.espresso.din ----------
+                               MEAN    STD DEV
+     L1 Inst Cache Hits : 807667.0000     0.0000
+   L1 Inst Cache Misses :  1701.0000     0.0000
+    L1 Inst Energy (mJ) :     0.4603     0.0000
+     L1 Data Cache Hits : 189630.0000     0.0000
+   L1 Data Cache Misses :  1002.0000     0.0000
+L1 Data Cache Energy(mJ) :     0.3210     0.0000
+     DRAM Accesses (ms) :   798.0000     0.0000
+          L1 Cache Hits : 997297.0000     0.0000
+        L1 Cache Misses :  2703.0000     0.0000
+          L2 Cache Hits :  1905.0000     0.0000
+        L2 Cache Misses :   798.0000     0.0000
+         L1 Energy (mJ) :     0.7813     0.0000
+         L2 Energy (mJ) :     0.9693     0.0000
+       DRAM Energy (mJ) :     0.5282     0.0000
+      Total Energy (mJ) :     2.2788     0.0000
+        Total Time (ms) :     0.5159     0.0000
+******************** L2 Associativity of 8 ********************
+---------- Processing trace file: 008.espresso.din ----------
+                               MEAN    STD DEV
+     L1 Inst Cache Hits : 807667.0000     0.0000
+   L1 Inst Cache Misses :  1701.0000     0.0000
+    L1 Inst Energy (mJ) :     0.4603     0.0000
+     L1 Data Cache Hits : 189630.0000     0.0000
+   L1 Data Cache Misses :  1002.0000     0.0000
+L1 Data Cache Energy(mJ) :     0.3210     0.0000
+     DRAM Accesses (ms) :   798.0000     0.0000
+          L1 Cache Hits : 997297.0000     0.0000
+        L1 Cache Misses :  2703.0000     0.0000
+          L2 Cache Hits :  1905.0000     0.0000
+        L2 Cache Misses :   798.0000     0.0000
+         L1 Energy (mJ) :     0.7813     0.0000
+         L2 Energy (mJ) :     0.9693     0.0000
+       DRAM Energy (mJ) :     0.5282     0.0000
+      Total Energy (mJ) :     2.2788     0.0000
+        Total Time (ms) :     0.5159     0.0000
